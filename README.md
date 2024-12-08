@@ -1,2 +1,1 @@
-# Micrograde_Update
-Neural network and Backpropagation in jupyter
+[README.md](https://github.com/user-attachments/files/18053347/README.md)
